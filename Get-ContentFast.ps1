@@ -66,7 +66,7 @@
         Changelog:
             1.0             Initial Release
     .LINK
-    
+        https://github.com/martin9700/Get-ContentFast
     #>
     [CmdletBinding(DefaultParameterSetName="Normal")]
     Param (
